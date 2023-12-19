@@ -172,13 +172,17 @@ body {
 /* sidebar styles */
 
 .sidebar {
+	width: 270px;
 	background-color: #121923;
 }
 
 .photo {
-	width: 270px;
 	height: 350px;
 	margin-bottom: 50px;
+	background-image: url(../img/photo_2023-12-19_12-08-03.jpg);
+	background-position: 93% 50%;
+	background-repeat: no-repeat;
+	background-size: 466px;
 }
 
 .contact_list {
