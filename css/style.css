@@ -57,7 +57,7 @@ body {
 
 	color: #595959;
 
-	width: 600px;
+	width: 900px;
 }
 
 /* project styles  */
@@ -140,6 +140,7 @@ body {
 .work_list {
 	padding: 0px;
 	margin-left: 15px;
+	width: 900px;
 }
 
 .work_list_item {
@@ -200,6 +201,7 @@ body {
 .tech_skills,
 .soft_skills {
 	margin-left: 40px;
+	margin-top: 70px;
 }
 
 .contacts__icon-mail {
